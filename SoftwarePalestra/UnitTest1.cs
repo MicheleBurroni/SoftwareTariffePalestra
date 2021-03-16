@@ -7,7 +7,7 @@ namespace SoftwarePalestra
     public class UnitTest1
     {
         [TestMethod]
-        public void OfferteTariffe()
+        public void Tariffa1()
         {
 
         }
