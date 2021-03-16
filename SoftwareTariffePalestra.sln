@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwarePalestra", "SoftwarePalestra\SoftwarePalestra.csproj", "{DA842651-A3B7-4A6C-8C04-D69170B96951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffePalestra", "TariffePalestra\TariffePalestra.csproj", "{060D3009-FC99-4054-8126-44CE6CEB2E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA842651-A3B7-4A6C-8C04-D69170B96951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA842651-A3B7-4A6C-8C04-D69170B96951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA842651-A3B7-4A6C-8C04-D69170B96951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA842651-A3B7-4A6C-8C04-D69170B96951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060D3009-FC99-4054-8126-44CE6CEB2E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060D3009-FC99-4054-8126-44CE6CEB2E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060D3009-FC99-4054-8126-44CE6CEB2E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060D3009-FC99-4054-8126-44CE6CEB2E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD88B35F-91E1-48DD-9FEC-6C37DB2A2167}
+	EndGlobalSection
+EndGlobal
